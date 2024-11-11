@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Joy!
 
-Welcome to my Github Profile 😊
+[![Welcome](https://img.shields.io/badge/Welcome_to_my_GitHub_Profile-😊-brightgreen?style=for-the-badge)](https://github.com/joyashidi)
 
 I’m a Cybersecurity Analyst specializing in Vulnerability Assessment and Penetration Testing (VAPT) and a Computer Science major. My focus is on enhancing cybersecurity for software, organizations, and individuals, creating safer and more resilient digital environments. I also have knowledge of front-end web development. Here, you’ll find projects and insights that showcase my work and passion for cybersecurity. Let’s connect!
 
