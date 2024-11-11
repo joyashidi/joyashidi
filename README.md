@@ -2,7 +2,7 @@
 
 Welcome to my Github Profile 😊
 
-I’m a Cybersecurity Analyst specializing in Vulnerability Assessment and Penetration Testing (VAPT) with a background in Computer Science. My focus is on enhancing cybersecurity for software, organizations, and individuals, creating safer and more resilient digital environments. I also have knowledge of front-end web development. Here, you’ll find projects and insights that showcase my work and passion for cybersecurity. Let’s connect!
+I’m a Cybersecurity Analyst specializing in Vulnerability Assessment and Penetration Testing (VAPT) and a Computer Science major. My focus is on enhancing cybersecurity for software, organizations, and individuals, creating safer and more resilient digital environments. I also have knowledge of front-end web development. Here, you’ll find projects and insights that showcase my work and passion for cybersecurity. Let’s connect!
 
 ## 🛠 Skills and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
