@@ -2,7 +2,12 @@
 
 [![Welcome](https://img.shields.io/badge/Welcome_to_my_GitHub_Profile-😊-brightgreen?style=for-the-badge)](https://github.com/joyashidi)
 
-I’m a Cybersecurity Analyst specializing in Vulnerability Assessment and Penetration Testing (VAPT) and a Computer Science major. My focus is on enhancing cybersecurity for software, organizations, and individuals, creating safer and more resilient digital environments. I also have knowledge of front-end web development. Here, you’ll find projects and insights that showcase my work and passion for cybersecurity. Let’s connect!
+I’m a Cybersecurity Analyst specializing in Vulnerability Assessment and Penetration Testing (VAPT) and currently pursuing a degree in Computer Science. My work focuses on identifying, exploiting, and securing vulnerabilities across systems, web applications, and APIs to create safer digital environments.
+
+I also have experience in front-end web development and enjoy combining technical creativity with cybersecurity principles.
+
+Here, you’ll find my projects, scripts, and insights that reflect my journey in ethical hacking and security automation.
+Let’s connect and collaborate!
 
 ## 🛠 Skills and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
