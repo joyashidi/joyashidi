@@ -23,19 +23,19 @@ Let’s connect and collaborate!
 ![Nmap](https://img.shields.io/badge/-Nmap-7E4C3E?style=flat&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-- 🔍 Vulnerability Assessment: Proficient in scanning tools to identify security weaknesses.
+- 🔍 **Vulnerability Assessment**: Proficient in scanning tools to identify security weaknesses.
 
-- 🛡️ Penetration Testing: Skilled in full lifecycle penetration testing including identifying and exploiting vulnerabilities based on the **OWASP Top 10 and the OWASP API Top 10.**
+- 🛡️ **Penetration Testing**: Skilled in full lifecycle penetration testing including identifying and exploiting vulnerabilities based on the **OWASP Top 10 and the OWASP API Top 10.**
 
-- 🎭 Adversary Emulation: Knowledge of TTPs and emulating real-world attacks.
+- 🎭 **Adversary Emulation**: Knowledge of TTPs and emulating real-world attacks.
 
-- 💻 Scripting & Automation: Experienced in Python and Bash scripting.
+- 💻 **Scripting & Automation:** Experienced in Python and Bash scripting.
 
-- 📂 Operating Systems: Familiar with Linux, Kali Linux, and Windows.
+- 📂 **Operating Systems:** Familiar with Linux, Kali Linux, and Windows.
 
-- 🌐 Network Security: Understanding of TCP/IP, HTTP, DNS, firewalls, and VPNs.
+- 🌐 **Network Security:** Understanding of TCP/IP, HTTP, DNS, firewalls, and VPNs.
 
-- 📑 Security Frameworks: MITRE ATT&CK, ITIL.
+- 📑 **Security Frameworks:** MITRE ATT&CK, ITIL.
 
 
 ## 🚀 Github Stats
