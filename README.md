@@ -2,7 +2,7 @@
 
 [![Welcome](https://img.shields.io/badge/Welcome_to_my_GitHub_Profile-😊-brightgreen?style=for-the-badge)](https://github.com/joyashidi)
 
-I’m a Cybersecurity Analyst specializing in Vulnerability Assessment and Penetration Testing (VAPT) and currently pursuing a degree in Computer Science. My work focuses on identifying, exploiting, and securing vulnerabilities across systems, web applications, and APIs to create safer digital environments.
+I’m a **Cybersecurity Analyst** specializing in **Vulnerability Assessment and Penetration Testing (VAPT)** and currently pursuing a degree in **Computer Science**. My work focuses on identifying, exploiting, and securing vulnerabilities across **network systems, web applications, and APIs** to create safer digital environments.
 
 I also have experience in front-end web development and enjoy combining technical creativity with cybersecurity principles.
 
@@ -25,7 +25,7 @@ Let’s connect and collaborate!
 
 - 🔍 Vulnerability Assessment: Proficient in scanning tools to identify security weaknesses.
 
-- 🛡️ Penetration Testing: Skilled in full lifecycle penetration testing including identifying and exploiting vulnerabilities based on the OWASP Top 10.
+- 🛡️ Penetration Testing: Skilled in full lifecycle penetration testing including identifying and exploiting vulnerabilities based on the **OWASP Top 10 and the OWASP API Top 10.**
 
 - 🎭 Adversary Emulation: Knowledge of TTPs and emulating real-world attacks.
 
@@ -35,7 +35,7 @@ Let’s connect and collaborate!
 
 - 🌐 Network Security: Understanding of TCP/IP, HTTP, DNS, firewalls, and VPNs.
 
-- 📑 Security Frameworks: Familiar with security frameworks and best practices.
+- 📑 Security Frameworks: MITRE ATT&CK, ITIL.
 
 
 ## 🚀 Github Stats
@@ -44,7 +44,7 @@ Let’s connect and collaborate!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyashidi&langs_count=7&layout=compact&theme=radical)
 
 ## 🌱 I’m currently learning
-- Currently preparing for my **eJPT** (eLearnSecurity Junior Penetration Tester). You can learn more about it [here](https://www.elearnsecurity.com/course/ejpt/).
+- Currently learning **Detection Engineering and Threat Hunting.** You can learn more about it [here] (https://app.acyberguru.io/training/blue/lesson_detail/introduction-to-detection-engineering-and-its-role-in-enterprise-security).
 
 ## 📫 How to reach me:
 
